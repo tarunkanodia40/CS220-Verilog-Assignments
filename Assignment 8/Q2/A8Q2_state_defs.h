@@ -1,0 +1,7 @@
+`define NEW_INSTRUC 3'b000
+`define FIND_FIELD 3'b001
+`define READ_SOURCE_REG 3'b010
+`define EXECUTE 3'b011
+`define ACCESS_MEMORY 3'b100
+`define WRITE_TARGET_REG 3'b101
+`define OUTPUT_READY 3'b110
